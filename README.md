@@ -34,11 +34,16 @@ Estos codigos se encuentran en el archivo css, utilizando como Framework Materia
     }
 }
 ```
-Captura de Pantalla
-[url=https://postimg.cc/Lqgr2WJ7][img]https://i.postimg.cc/Lqgr2WJ7/Telefono-1.jpg[/img][/url]
-[url=https://postimg.cc/G45W0RmG][img]https://i.postimg.cc/G45W0RmG/Telefono-2.jpg[/img][/url]
-[url=https://postimg.cc/VJ6xHvmz][img]https://i.postimg.cc/VJ6xHvmz/Telefono-3.jpg[/img][/url]
-### 2. Tablet (ancho entre 601px y 1024px)
+- Captura de Pantalla
+
+![Telefono 1](https://github.com/user-attachments/assets/c5ad3f02-f00d-44f5-9d9e-d3a028b011fc)
+
+![Telefono 2](https://github.com/user-attachments/assets/fb27c838-4ee4-4ca5-883c-ed16a9be2cc6)
+
+![Telefono 3](https://github.com/user-attachments/assets/e8b72748-e5b5-4982-9c8c-2a39bc8364c8)
+
+### 2. Tablet (ancho entre 601px y 1024):
+
 ```css
 @media only screen and (min-width: 601px) and (max-width: 1024px) {
     .logo {
@@ -57,11 +62,13 @@ Captura de Pantalla
     }
 }
 ```
-Captura de Pantalla
-[url=https://postimg.cc/14018bv1][img]https://i.postimg.cc/14018bv1/Tablet.jpg[/img][/url]
+- Captura de Pantalla
 
-###3.Computadoras de Escritorio
+![Tablet](https://github.com/user-attachments/assets/8ca313b8-a3f1-4cb9-aa94-67351e7cbf2f)
+![image](https://github.com/user-attachments/assets/cd286da0-88be-4e13-8e2f-9f0c6e7cdf77)
 
-Captura de Pantalla
-[url=https://postimg.cc/s1zDHY8y][img]https://i.postimg.cc/s1zDHY8y/Escritorio-1.jpg[/img][/url]
-[url=https://postimg.cc/YGcT9xgS][img]https://i.postimg.cc/YGcT9xgS/Escritorio-2.jpg[/img][/url]
+### 3. Computadoras de Escritorio
+
+- Captura de Pantalla
+![Escritorio 1](https://github.com/user-attachments/assets/1c18d96d-2e5c-48b0-a39e-1458c5d03ddd)
+![Escritorio 2](https://github.com/user-attachments/assets/7cf5d000-55d2-421a-8688-e247960658d1)
