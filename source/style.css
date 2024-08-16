@@ -59,11 +59,24 @@ header .sidenav {
     .row {
         display: flex;
         flex-wrap: wrap;
+        flex-flow: row wrap;
         justify-content: space-between;
     }
+    .col {
+        flex: 0 0 calc(60% - 20px);
+        max-width: calc(50% - 10px);
+        margin-bottom: 40px;
+    }
 
-    .card {
-        width: 100; /* Ancho de cada tarjeta */
-        margin-bottom: 20px; /* Espaciado entre tarjetas */
+    h1 {
+        font-size: 250%
+    }
+
+    p {
+        font-size: 120%
+    }
+
+    h2 {
+        font-size: 230%;
     }
 }
