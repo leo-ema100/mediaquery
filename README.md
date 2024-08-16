@@ -53,19 +53,36 @@ Estos codigos se encuentran en el archivo css, utilizando como Framework Materia
     .row {
         display: flex;
         flex-wrap: wrap;
+        flex-flow: row wrap;
+
         justify-content: space-between;
+    }
+    .col {
+        flex: 0 0 calc(60% - 20px);
+        max-width: calc(50% - 10px);
+        margin-bottom: 40px;
     }
 
     .card {
         width: 100; 
-        margin-bottom: 20px; 
+    }
+    h1 {
+        font-size: 250%
+    }
+
+    p {
+        font-size: 120%
+    }
+
+    h2 {
+        font-size: 230%;
     }
 }
 ```
 - Captura de Pantalla
 
-![Tablet](https://github.com/user-attachments/assets/8ca313b8-a3f1-4cb9-aa94-67351e7cbf2f)
-![image](https://github.com/user-attachments/assets/cd286da0-88be-4e13-8e2f-9f0c6e7cdf77)
+![image](https://github.com/user-attachments/assets/29db4725-10cf-4ff4-aba7-ebc2e09ea01d)
+![image](https://github.com/user-attachments/assets/ba9413a9-0b76-4e9a-9bfd-856ebb009b3b)
 
 ### 3. Computadoras de Escritorio
 
