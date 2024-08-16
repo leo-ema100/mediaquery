@@ -54,7 +54,6 @@ Estos codigos se encuentran en el archivo css, utilizando como Framework Materia
         display: flex;
         flex-wrap: wrap;
         flex-flow: row wrap;
-
         justify-content: space-between;
     }
     .col {
@@ -63,9 +62,6 @@ Estos codigos se encuentran en el archivo css, utilizando como Framework Materia
         margin-bottom: 40px;
     }
 
-    .card {
-        width: 100; 
-    }
     h1 {
         font-size: 250%
     }
@@ -81,8 +77,8 @@ Estos codigos se encuentran en el archivo css, utilizando como Framework Materia
 ```
 - Captura de Pantalla
 
-![image](https://github.com/user-attachments/assets/29db4725-10cf-4ff4-aba7-ebc2e09ea01d)
-![image](https://github.com/user-attachments/assets/ba9413a9-0b76-4e9a-9bfd-856ebb009b3b)
+![image](https://github.com/user-attachments/assets/97cd90c2-0d65-4ede-8dd1-2e5f09583596)
+![image](https://github.com/user-attachments/assets/307af218-124a-486a-9403-555d1c8aa7bc)
 
 ### 3. Computadoras de Escritorio
 
