@@ -7,8 +7,9 @@
     <title>Valorant</title>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"  media="screen,projection"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="style.css">
-
+    
 </head>
 
 <body>
@@ -57,8 +58,8 @@
                 </div>
             </div>
         </div>
-        <div class="col s12 m6 l4">
-            <div class="card">
+        <div class="col s12 m6 l4 ">
+            <div class="card ">
                 <div class="card-image">
                     <img src="/img/cypher.jpeg" alt="Agente 2">
                 </div>
@@ -84,18 +85,26 @@
     </div>
 </section>
 
-
 <footer class="page-footer">
     <div class="container">
         <div class="row">
             <div class="col s12 center-align">
                 <h5 class="white-text">Síguenos en</h5>
+                <a href="https://x.com/VALORANTLATAM"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.youtube.com/channel/UC8CX0LD98EDXl4UYX1MDCXg"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.twitch.tv/valorant"><i class="fab fa-twitch"></i></a>
             </div>
         </div>
     </div>
 </footer>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var elems = document.querySelectorAll('.sidenav');
+        var instances = M.Sidenav.init(elems);
+    });
+</script>
 
 </body>
 </html>

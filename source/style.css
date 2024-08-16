@@ -21,21 +21,49 @@ header .sidenav {
 .page-footer {
     background-color: #1b1d21;
 }
-.page-footer .material-icons {
-    color: #ff4655;
+
+.page-footer i {
+    color: #ff4655; 
+    font-size: 30px; 
+    margin: 0 15px; 
+}
+
+.page-footer i:hover {
+    transform: scale(1.2); 
 }
 
 .card {
-    background-color: #2a2d34;
+    background-color: #2a2d34;  
 }
 
 .card-title {
-    color: #ff4655;
+    color: #584446;
 }
 .card-content{
     text-align: justify;
 }
-.icon-small {
-    width: 40px;
-    vertical-align: middle;
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        height: 50px;
+        padding-left: 56px; 
+    }
+    
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    .logo {
+        height: 60px;
+        padding-left: 56px; 
+    }
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .card {
+        width: 100; /* Ancho de cada tarjeta */
+        margin-bottom: 20px; /* Espaciado entre tarjetas */
+    }
 }
