@@ -22,7 +22,7 @@ Este proyecto implementa un diseño web responsivo utilizando media queries en C
 
 ## Media Queries Implementadas
 
-Estos codigos se encuentran en el archivo css, utilizando como Framework Materialize gracias a esto muchos elementos ya estén optimizados para adaptarse automáticamente a pantallas pequeñas sin necesidad de muchas modificaciones adicionales. Por tal razon en el meda queries para Móvil solo se modifico el logo, pero para Tablet se modifico otras opciones.
+Estos codigos se encuentran en el archivo css, utilizando como Framework Materialize gracias a esto muchos elementos ya estén optimizados para adaptarse automáticamente a pantallas pequeñas sin necesidad de muchas modificaciones adicionales. Por tal razon en el media queries para Móvil solo se modifico el logo, pero para Tablet se modifico otras opciones.
 
 ### 1. Móviles (ancho máximo de 600px):
 
