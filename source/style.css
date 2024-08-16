@@ -21,4 +21,21 @@ header .sidenav {
 .page-footer {
     background-color: #1b1d21;
 }
+.page-footer .material-icons {
+    color: #ff4655;
+}
 
+.card {
+    background-color: #2a2d34;
+}
+
+.card-title {
+    color: #ff4655;
+}
+.card-content{
+    text-align: justify;
+}
+.icon-small {
+    width: 40px;
+    vertical-align: middle;
+}
